@@ -4,7 +4,7 @@ I'm an aspiring Data Analyst with a keen interest in using data to understand re
 🔭 I’m currently working on an NHS Waiting Times & Hospital Performance Analysis, exploring waiting-list trends and performance across NHS services.<br>
 📊 I enjoy working with real-world datasets, from data cleaning and exploration through to analysis and dashboard development.<br>
 🌱 I’m currently developing my skills in Python while continuing to strengthen my Tableau skills through practical projects.<br>
-💡 I'm particularly interested in **healthcare, business, and economic analysis**.<br>
+💡 I'm particularly interested in healthcare, business, and economic analysis.<br>
 📁 Check out my pinned projects below to see some of my recent work.
 
 ## 🌐 Socials
@@ -22,9 +22,9 @@ I'm an aspiring Data Analyst with a keen interest in using data to understand re
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=oseimishaella385-cell&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=oseimishaella385-cell&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://streak-stats.demolab.com/?user=oseimishaella385-cell&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=oseimishaella385-cell&theme=default&hide_border=false)<br/>
 
 ---
 
